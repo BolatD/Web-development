@@ -1,0 +1,107 @@
+body{
+    background-color:rgb(30,30,30);
+}
+#abc{
+    position: absolute;
+    top:0px;
+    left:0px;
+    width: 50px;
+}
+#txt{
+    font-size: 20;
+    position: absolute;
+    bottom: 290px;
+    left: 200px;
+    color:rgb(180,180,180);
+}
+#w{
+    color:white;
+}
+.H{
+    font-size:45px;
+    position: relative;
+    top:120px;
+    left:200px;
+    color: white;
+}
+#cat{
+    z-index: 1;
+    width: 120px;
+    height:100px;
+    bottom:0px;
+    right:0px;
+    position: absolute;
+}
+.white_place{
+    border-radius: 5px;
+    position: absolute;
+bottom: 80px;
+right: 250px;
+width: 400px;
+height: 510px;
+background-color:white;
+}
+#whiteNs{
+    margin-left: 10px;
+    font-weight: bold;
+}
+#Nswhite{
+    margin-left: 10px;
+    font-style:initial;
+    font-weight: 500;
+    margin-top: 10px;
+}
+#Nwhite{
+    margin-top:25px;
+    margin-left: 10px ;
+    font-weight: lighter;
+}
+#green{
+    margin:20 10 0 10;
+    height: 60px;
+    text-align: center;
+    background-color: rgb(7, 189, 7);
+}
+#frame{
+    border-radius: 5px;
+    margin: 0 10 0 10;
+    border: 1px solid rgb(120,120,120);
+    color:white;
+}
+.black_place{
+    font-family:serif;
+    color:white;
+    background-color:black;
+    margin: 0 -10 0 0;
+    height: 48px;
+    margin-left:30px;
+}
+body{
+    margin: 0 0;
+}
+#left{
+    margin: 0 60;
+}
+#right{
+    left:300px;
+}
+#RIn1{
+    border-radius: 2px;
+    margin: 10 10 10 10;
+    border:0.5px solid rgb(160,160,160);
+}
+#SerGit{color: rgb(160,160,160);
+    background-color: rgb(70,70,70);
+    border: rgb(120,120,120);
+    border-radius: 2px;
+    border-width: 50px;
+    margin:10 10 10 10;
+    height: 100;
+    width:100;
+   
+}
+#RIn{
+    margin: 1 1 1 1;
+    border:0.5px solid rgb(120,120,120);
+    border-radius: 2px;
+}
