@@ -3,6 +3,7 @@ const list = [];
     document.getElementById('toDoList').removeChild(document.body.getElementsByClassName("task_div " + className)[0]);
 };
  function crossText (className) {
+
     let checkbox = document.body.getElementsByClassName("check " + className)[0];
     if(checkbox.checked === true){
         document.body.getElementsByClassName("task_text " + className)[0].setAttribute("style","text-decoration: line-through;");
